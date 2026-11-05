@@ -25,7 +25,7 @@ I'm always open to discussing:
 
 Please feel free to get in touch via email or LinkedIn!
 
-## 📧 Contact
+## 📲 Contact
 
 - 📧 contact.andrew.stevenson@protonmail.com
 - 🔗 [linkedin.com/in/andr-stev/](https://linkedin.com/in/andr-stev/)
