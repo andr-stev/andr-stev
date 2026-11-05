@@ -2,7 +2,7 @@
 
 > Master's candidate in Quantum Computing | Researcher | Problem-solver
 
-## 🎯 Key Highlights
+## 🎯 Highlights
 
 - 🔬 **Master of Quantum Computing Candidate** | University of Calgary
 - 📖 **Honours B.Sc. in Physics, Major in Mathematics** | University of Western Ontario
