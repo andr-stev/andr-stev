@@ -6,7 +6,6 @@
 
 - 🔬 **Master of Quantum Computing Candidate** | University of Calgary
 - 📖 **Honours B.Sc. in Physics, Major in Mathematics** | University of Western Ontario
-- 💻 **86% faster simulations** on supercomputer clusters
 - 📄 [Published](https://link.springer.com/article/10.1007/s42286-024-00083-5) in *Springer Nature's Water Waves*
 - 🏆 Recognized Top 10 Student Internationally @ Perimeter Institute (PSI START Program)
 - 🎓 Dean's Honour List | 4.0 GPA
